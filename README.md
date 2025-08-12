@@ -1,4 +1,4 @@
-<h1>Hi, I'm Phill! <br/><a </h1>
+<h1>Hi, I'm Phill! 🌴 <br/><a </h1>
 
 # Welcome to My GitHub
 
