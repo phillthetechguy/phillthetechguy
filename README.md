@@ -2,11 +2,11 @@
 
 # Welcome to My GitHub
 
-I’m passionate about building and breaking things to better understand how they work — and ultimately, how to secure and support them.  
+This is the beginning of my journey and im excited to be able to share it with you! I’m passionate about building and breaking things to better understand how they work — and ultimately, how to secure and support them. I'm in the process of transitioning into tech and this is my first big step.  
 This space is where I:
 
 - Document my learning journey  
-- Share hands-on labs and projects  
+- Share hands-on labs and projects that i create 
 - Showcase the lessons I've learned so far on my path
 
 Feel free to explore my repositories and connect!
