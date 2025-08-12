@@ -19,7 +19,6 @@ Feel free to explore my repositories and connect!
 **Scripting:** PowerShell (beginner level, growing)  
 **Other Skills:** IT troubleshooting, help desk support, hardware/software configuration
 
-[Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 <h2>👨‍💻 IT Support/ Help desk Projects:</h2>
 
@@ -42,7 +41,7 @@ Feel free to explore my repositories and connect!
 ## 📫 Connect with Me
 
 - [LinkedIn](www.linkedin.com/in/phillip-moten-6561302ab)  
-- [Email](mailto:youremail@example.com)  
+- [Email](mailto:phillthetechguy@gmail.com)  
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
