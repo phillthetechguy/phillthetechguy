@@ -1,5 +1,26 @@
 <h1>Hi, I'm Phill! <br/><a </h1>
 
+# Welcome to My GitHub
+
+I’m passionate about building and breaking things to better understand how they work — and ultimately, how to secure and support them.  
+This space is where I:
+
+- Document my learning journey  
+- Share hands-on labs and projects  
+- Showcase the lessons I've learned so far on my path
+
+Feel free to explore my repositories and connect!
+
+## 🧰 Tech Stack
+
+**Operating Systems:** Windows, macOS  
+**Tools & Platforms:** Active Directory, Azure, AWS, ServiceNow  
+**Security:** CompTIA Security+, Bitwarden, MFA implementation  
+**Scripting:** PowerShell (beginner level, growing)  
+**Other Skills:** IT troubleshooting, help desk support, hardware/software configuration
+
+[Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
 <h2>👨‍💻 IT Support/ Help desk Projects:</h2>
 
  - [Azure Home Lab w/ Active Directory](https://github.com/phillthetechguy/LABURL)
@@ -18,11 +39,10 @@
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+## 📫 Connect with Me
 
+- [LinkedIn](www.linkedin.com/in/phillip-moten-6561302ab)  
+- [Email](mailto:youremail@example.com)  
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
