@@ -2,7 +2,8 @@
 
 # Welcome to My GitHub
 
-This is the beginning of my journey and im excited to be able to share it with you! I’m passionate about building and breaking things to better understand how they work — and ultimately, how to secure and support them. I'm in the process of transitioning into tech and this is my first big step.  
+This is the beginning of my journey and im excited to be able to share it with you! I’m passionate about building and breaking things to better understand how they work — and ultimately, how to secure and support them. I'm in the process of transitioning into tech and this is my first big step. 
+
 This space is where I:
 
 - Document my learning journey  
