@@ -26,7 +26,7 @@ Feel free to explore my repositories and connect!
  - [ServiceNow Home Lab](https://github.com/phillthetechguy/SerivceNowLab/tree/main)
  - [AWS VM Home Lab](https://github.com/phillthetechguy/LABURL)
  - [Creating a Azure VM Lab](https://github.com/phillthetechguy/LABURL)
- - [Azure VM Home Lab w/ Active Directory](https://github.com/phillthetechguy/LABURL)
+ - [Azure VM Lab w/ Active Directory](https://github.com/phillthetechguy/LABURL)
 
 
 <h2> 📁 Certifications </h2>
