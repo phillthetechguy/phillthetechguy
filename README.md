@@ -23,9 +23,9 @@ Feel free to explore my repositories and connect!
 
 <h2>👨‍💻 IT Support/ Help desk Projects:</h2>
 
- - [ServiceNow Home Lab](https://github.com/phillthetechguy/SerivceNowLab/tree/main)
- - [AWS VM Home Lab](https://github.com/phillthetechguy/LABURL)
- - [Creating a Azure VM Lab](https://github.com/phillthetechguy/LABURL)
+ - [ServiceNow Project](https://github.com/phillthetechguy/SerivceNowLab/tree/main)
+ - [Creating a VM on AWS Lab](https://github.com/phillthetechguy/LABURL)
+ - [Creating a VM on Azure Lab](https://github.com/phillthetechguy/LABURL)
  - [Azure VM Lab w/ Active Directory](https://github.com/phillthetechguy/LABURL)
 
 
