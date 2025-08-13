@@ -25,7 +25,7 @@ Feel free to explore my repositories and connect!
 
  - [ServiceNow Project](https://github.com/phillthetechguy/SerivceNowLab/tree/main)
  - [Creating a VM on AWS Lab](https://github.com/phillthetechguy/LABURL)
- - [Creating a VM on Azure Lab](https://github.com/phillthetechguy/LABURL)
+ - [Creating a VM on Azure Lab](https://github.com/phillthetechguy/AzureVMLab/tree/main)
  - [Azure VM Lab w/ Active Directory](https://github.com/phillthetechguy/LABURL)
 
 
