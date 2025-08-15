@@ -21,12 +21,20 @@ Feel free to explore my repositories and connect!
 **Other Skills:** IT troubleshooting, help desk support, hardware/software configuration
 
 
-<h2>👨‍💻 IT Support/ Help desk Projects:</h2>
+<h2>👨‍💻 Creating and Deploying Virtual Machine Labs:</h2>
 
- - [ServiceNow Project](https://github.com/phillthetechguy/SerivceNowLab/tree/main)
  - [Creating a VM on AWS Lab](https://github.com/phillthetechguy/LABURL)
  - [Creating a VM on Azure Lab](https://github.com/phillthetechguy/AzureVMLab/tree/main)
+ 
+
+
+<h2>👨‍💻 Actice Directory and Ticketing System Labs:</h2>
+
+ - [ServiceNow Project](https://github.com/phillthetechguy/SerivceNowLab/tree/main)
  - [Azure VM Lab w/ Active Directory](https://github.com/phillthetechguy/LABURL)
+ - [Active Directory w/ Powershell](https://github.com/phillthetechguy/LABURL)
+
+
 
 
 <h2> 📁 Certifications </h2>
@@ -40,7 +48,6 @@ Feel free to explore my repositories and connect!
 - [LinkedIn](https://www.linkedin.com/in/phillip-moten-6561302ab)  
 - [Email](mailto:phillthetechguy@gmail.com)  
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
