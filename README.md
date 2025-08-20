@@ -2,7 +2,8 @@
 
 # Welcome to My GitHub
 
-This is the beginning of my journey and im excited to be able to share it with you! I’m passionate about building and breaking things to better understand how they work — and ultimately, how to secure and support them.  
+This is the beginning of my journey and im excited to be able to share it with you! I'm an aspiring Cloud Engineer, now focused on AWS, Azure, and automation. With experience in troubleshooting, I’m now focused on designing, automating, and securing cloud environments in AWS and Azure.
+
 
 This space is where I:
 
@@ -21,18 +22,20 @@ Feel free to explore my repositories and connect!
 **Other Skills:** IT troubleshooting, help desk support, hardware/software configuration
 
 
-<h2>👨‍💻 Creating and Deploying Virtual Machine Labs:</h2>
+<h2>Provisioning a VM on Azure:</h2>
 
- - [Creating a VM on AWS Lab](https://github.com/phillthetechguy/LABURL)
  - [Creating a VM on Azure Lab](https://github.com/phillthetechguy/AzureVMLab/tree/main)
+
+
+ <h2>Ticketing System Lab:</h2>
+
+ - [ServiceNow Lab](https://github.com/phillthetechguy/SerivceNowLab/tree/main)
+
+
+<h2>Actice Directory Domain Setup & User Management on AWS Lab:</h2>
+
+ - [AD DS & User Management Lab](https://github.com/phillthetechguy/LABURL)
  
-
-
-<h2>👨‍💻 Actice Directory and Ticketing System Labs:</h2>
-
- - [ServiceNow Project](https://github.com/phillthetechguy/SerivceNowLab/tree/main)
- - [Azure VM Lab w/ Active Directory](https://github.com/phillthetechguy/LABURL)
- - [Active Directory w/ Powershell](https://github.com/phillthetechguy/LABURL)
 
 
 
