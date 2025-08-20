@@ -32,7 +32,7 @@ Feel free to explore my repositories and connect!
  - [ServiceNow Lab](https://github.com/phillthetechguy/SerivceNowLab/tree/main)
 
 
-<h2>Actice Directory Domain Setup & User Management on AWS Lab:</h2>
+<h2>Active Directory Domain Setup & User Management on AWS Lab:</h2>
 
  - [AD DS & User Management Lab](https://github.com/phillthetechguy/LABURL)
  
