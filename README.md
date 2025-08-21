@@ -43,6 +43,8 @@ Feel free to explore my repositories and connect!
 <h2> 📁 Certifications </h2>
 
 - [Comptia Secuirty+ ce](https://www.certmetrics.com/comptia/public/verification.aspx)
+- [AWS CLF-02 (In Progress)](https://github.com/phillthetechguy/LABURL)
+  
 
 
 
