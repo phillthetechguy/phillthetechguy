@@ -34,7 +34,7 @@ Feel free to explore my repositories and connect!
 
 <h2>AD DS & User Management on AWS Lab:</h2>
 
- - [Active Directory Domain Setup & User Management Lab](https://github.com/phillthetechguy/LABURL)
+ - [Active Directory Domain Setup & User Management Lab](https://github.com/phillthetechguy/Active-Directory-Domain-Setup-User-Management-Lab)
  
 
 
